@@ -1,0 +1,12 @@
+//     printf("Enter a number: ");
+//     scanf("%d", &num);
+    
+//     int len = 0;
+//     for(int i=num; i>0; i/=10) {
+//         len++;
+//     }
+
+//     float sum = 0;
+//     for(int i=num; i>0; i/=10) {
+//         int rem = i%10;
+//         sum += pow(rem, len);
